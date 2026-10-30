@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Personality Predictor</title>
+  <desc id="desc">A dark purple and teal banner with a connected five point personality motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11101d"/>
+      <stop offset="0.58" stop-color="#171426"/>
+      <stop offset="1" stop-color="#0d2024"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9b5cff"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="340" rx="28" fill="url(#bg)"/>
+  <circle cx="1020" cy="165" r="230" fill="url(#glow)" filter="url(#soft)"/>
+  <path d="M0 280C220 240 330 360 570 300s420-134 710-44v84H0z" fill="#8b5cf6" opacity=".055"/>
+  <path d="M0 310c260-85 430 65 710-10s410-70 570-28v68H0z" fill="#5eead4" opacity=".055"/>
+
+  <g transform="translate(82 85)">
+    <circle cx="78" cy="78" r="74" fill="#8b5cf6" opacity=".12"/>
+    <g stroke="url(#accent)" stroke-width="3" opacity=".9">
+      <path d="M78 18 132 58 111 122 45 122 24 58z" fill="none"/>
+      <path d="M78 18v60m54-20L78 78m33 44L78 78m-33 44 33-44M24 58l54 20" fill="none" opacity=".65"/>
+    </g>
+    <g fill="url(#accent)" stroke="#171426" stroke-width="5">
+      <circle cx="78" cy="18" r="10"/><circle cx="132" cy="58" r="10"/>
+      <circle cx="111" cy="122" r="10"/><circle cx="45" cy="122" r="10"/>
+      <circle cx="24" cy="58" r="10"/><circle cx="78" cy="78" r="13"/>
+    </g>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="280" y="150" fill="#f8f7ff" font-size="48" font-weight="700" letter-spacing="-1.4">Personality Predictor</text>
+    <text x="282" y="198" fill="#c8c4d8" font-size="22">A conversational Big Five personality assessment</text>
+    <rect x="282" y="229" width="82" height="4" rx="2" fill="#9b5cff"/>
+    <rect x="364" y="229" width="82" height="4" rx="2" fill="#5eead4"/>
+    <text x="282" y="273" fill="#9691aa" font-size="15" letter-spacing="2.2">REACT  ·  EXPRESS  ·  MONGODB</text>
+  </g>
+
+  <g transform="translate(900 82)" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".4">
+    <circle cx="120" cy="88" r="84"/><circle cx="120" cy="88" r="116" stroke-dasharray="4 10"/>
+    <path d="M20 88h200M120 -12v200M49 17l142 142M191 17 49 159" opacity=".45"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="1020" cy="170" r="9"/><circle cx="1020" cy="86" r="6"/>
+    <circle cx="1102" cy="170" r="6"/><circle cx="1020" cy="254" r="6"/>
+    <circle cx="938" cy="170" r="6"/><circle cx="1078" cy="112" r="5"/>
+  </g>
+</svg>
