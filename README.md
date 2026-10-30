@@ -295,6 +295,10 @@ Licensed under the **GNU Affero General Public License v3.0 only (AGPL-3.0-only)
 
 ## Contact and community
 
+- **WhatsApp:** [+92 317 4026038](https://wa.me/923174026038)
+- **Email:** [attayabpc2@gmail.com](mailto:attayabpc2@gmail.com)
+- **LinkedIn:** [Muhammad Attayab Ashraf](https://pk.linkedin.com/in/muhammad-attayab-ashraf-519562262)
+- **Freelancer:** [MuhammadAttayab](https://www.freelancer.com/u/MuhammadAttayab)
 - **Issues and feature requests:** [GitHub Issues](https://github.com/Attayab-31/Personality-Predictor-ChatBot/issues)
 - **Source and contributions:** [Repository](https://github.com/Attayab-31/Personality-Predictor-ChatBot)
 - **Support the project:** [⭐ Star Personality Predictor](https://github.com/Attayab-31/Personality-Predictor-ChatBot/stargazers)
